@@ -5,7 +5,7 @@ EP1- Podquest
 
 -Adicionar episodio na playlist criado pelo usuario;
 
--Podenos remover um episodio de um podquest criado;
+-Podemos remover um episodio de um podquest criado;
 
 -Tocar episodio mostra qual episodio esta;
 
